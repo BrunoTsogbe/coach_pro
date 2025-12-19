@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": 1765534490.6161368,
+    "role": "user",
+    "content": "salut"
+  },
+  {
+    "timestamp": 1765534491.4817562,
+    "role": "assistant",
+    "content": "Pas de problème. Tu veux peut-être que je te fasse une évaluation de ton CV ou de ta lettre de motivation ? Je suis là pour t'aider à améliorer tes documents professionnels. Qu'est-ce que tu veux faire ?"
+  }
+]
